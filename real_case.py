@@ -12,3 +12,5 @@ df.plot(x="Name", y="Marks", kind="bar", color="orange")
 plt.title("Marks using Pandas")
 
 plt.show()
+
+#Check Figure_1.png image for this code
